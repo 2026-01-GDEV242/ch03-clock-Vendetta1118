@@ -112,7 +112,5 @@ public class ClockDisplay
     displayString = hourString + ":" +
                     minutes.getDisplayValue() + " " +
                     meridian;
-        // displayString = hours.getDisplayValue() + ":" + 
-                        // minutes.getDisplayValue();
     }
 }
